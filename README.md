@@ -1,0 +1,1 @@
+# shopbot_auto_assy
